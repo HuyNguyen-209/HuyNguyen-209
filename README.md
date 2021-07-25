@@ -1,4 +1,4 @@
-### Hi there 👋, ## 👋 Hi everyone, I’m Huy Nguyen. 
+### 👋 Hi everyone, I’m Huy Nguyen. 
 ![](https://github.com/HuyNguyen-209/HuyNguyen-209/blob/e7df80e0f15015e2320ea6c8bb93d36545faf5b2/Thi%E1%BA%BFt%20k%E1%BA%BF%20kh%C3%B4ng%20t%C3%AAn.png?raw=true)
 
 I'm learning at National University of Ho Chi Minh city, University of Science!
